@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Abyssnya/my-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Abyssnya/my-app/static/js/main.9ab0d7c4.chunk.js",
+    "main.js.map": "/Abyssnya/my-app/static/js/main.9ab0d7c4.chunk.js.map",
+    "runtime-main.js": "/Abyssnya/my-app/static/js/runtime-main.b0a90011.js",
+    "runtime-main.js.map": "/Abyssnya/my-app/static/js/runtime-main.b0a90011.js.map",
+    "static/js/2.763b34e5.chunk.js": "/Abyssnya/my-app/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/Abyssnya/my-app/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/Abyssnya/my-app/index.html",
+    "precache-manifest.eb4e849ab712d9028ed7b4f5bebfbb5c.js": "/Abyssnya/my-app/precache-manifest.eb4e849ab712d9028ed7b4f5bebfbb5c.js",
+    "service-worker.js": "/Abyssnya/my-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Abyssnya/my-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/Abyssnya/my-app/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Abyssnya/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a90011.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ab0d7c4.chunk.js"
+  ]
+}
